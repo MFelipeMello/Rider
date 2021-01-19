@@ -1,0 +1,37 @@
+<keymap version="1" name="Visual Studio (OSX) copy" parent="Visual Studio OSX">
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="x" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta m" />
+  </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="1" />
+  </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="2" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="2" />
+  </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="3" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="3" />
+  </action>
+  <action id="ExpandAllToLevel4">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="4" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad4" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="4" />
+  </action>
+  <action id="ExpandAllToLevel5">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="5" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad5" />
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="5" />
+  </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="RiderCollapseToDefinitions">
+    <keyboard-shortcut first-keystroke="meta m" second-keystroke="o" />
+  </action>
+</keymap>
