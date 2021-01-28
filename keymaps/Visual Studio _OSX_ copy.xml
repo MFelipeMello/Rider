@@ -36,7 +36,7 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
-  <action id="Macro.TestMacro">
+  <action id="Macro.Save Remove Imports">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MinimizeCurrentWindow" />
