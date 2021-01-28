@@ -9,5 +9,10 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="TestMacro">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
