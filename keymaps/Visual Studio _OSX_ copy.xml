@@ -36,10 +36,14 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="Macro.Save Remove Imports">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="RiderCollapseToDefinitions">
     <keyboard-shortcut first-keystroke="meta m" second-keystroke="o" />
   </action>
+  <action id="SaveDocument" />
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ViewSource" />
 </keymap>
