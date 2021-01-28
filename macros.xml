@@ -4,5 +4,10 @@
       <action id="OptimizeImports" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Save Reformat Imports">
+      <action id="OptimizeImports" />
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
