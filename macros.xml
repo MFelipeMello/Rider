@@ -14,5 +14,16 @@
       <action id="OptimizeImports" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Mini Save">
+      <action id="OptimizeImports" />
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="Mini Save Cleanup">
+      <action id="OptimizeImports" />
+      <action id="ReformatCode" />
+      <action id="SilentCodeCleanup" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
