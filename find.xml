@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Volleyball'" />
-    <option name="defaultScopeName" value="Project 'Volleyball'" />
-    <option name="SEARCH_SCOPE" value="Project 'Volleyball'" />
+    <option name="customScope" value="File '.../Assets/Scripts/Gameplay/Player/PlayerController.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/Scripts/Gameplay/Player/PlayerController.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/Scripts/Gameplay/Player/PlayerController.cs'" />
   </component>
 </application>
